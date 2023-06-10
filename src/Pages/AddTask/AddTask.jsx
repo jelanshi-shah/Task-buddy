@@ -2,7 +2,7 @@ import React from 'react'
 
 const AddTask = () => {
   return (
-    <div></div>
+    <div>Task Addiion modal will goes here</div>
   )
 }
 
